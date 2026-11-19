@@ -1,24 +1,23 @@
-<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:7AA2F7,100:BB9AF7&height=220&section=header&text=Lewis%20Kivulu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20Software%20Development%20%C2%B7%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" alt="Lewis Kivulu" /> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+developer+%C2%B7+Nairobi%2C+Kenya;React+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+PostgreSQL;Building+useful+things+for+the+web+and+mobile" alt="Typing SVG" /> </a> <br/>
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:7AA2F7,100:BB9AF7&height=220&section=header&text=Lewis%20Kivulu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20Software%20Development%20%C2%B7%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" alt="Lewis Kivulu" /> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+developer+%C2%B7+Nairobi%2C+Kenya;CTO+at+Byte+Nuru;React+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+PostgreSQL" alt="Typing SVG" /> </a> <br/>
 LinkedInYouTubeGmailGitHub
 
 </div>
 👋 About Me
-I'm Lewis — a software development student at KCA University in Nairobi, Kenya, and a full-stack developer who likes shipping complete products rather than prototypes.
+Hey, I'm Lewis — a software developer and the CTO at Byte Nuru, based in Nairobi, Kenya.
 
-I work across the stack: React and TypeScript on the front end, Java and Node on the back end, PostgreSQL or Supabase for data, and a bit of Android when an idea needs an app. I'm currently building Heron, a zero-custody crowdfunding platform for community fundraising, and always tinkering with something smaller on the side.
+I like the unglamorous parts of building software as much as the launch: shaping the data model, arguing about edge cases, designing the interface, then watching someone use it without asking for help. At Byte Nuru we build ERPs, portals and workflow systems for organizations that have outgrown spreadsheets — usually with M-Pesa wired in.
 
-🎓 Studying: BSc Software Development at KCA University
-🏗️ Currently building: Heron — crowdfunding, without the custody
-🎬 Off the clock: editing video and making content on YouTube
-💬 Ask me about: React, TypeScript, Java, Python or PostgreSQL
-📫 Reach me: kivululewis@gmail.com
+I'm also studying for a BSc in Software Development at KCA University and building Heron, a zero-custody crowdfunding platform for community fundraising. Away from the keyboard I edit video for YouTube, collect side projects I swear I'll finish, and explain why the demo is almost ready.
+
+🧑‍💼 CTO at Byte Nuru
+🎓 BSc Software Development at KCA University
+🏗️ Currently building Heron — crowdfunding, without the custody
+🎬 Off the clock on YouTube
 🛠️ Tech Stack
-Category	Stack
-Languages	TypeScriptJavaScriptJavaPythonKotlinC++
-Frontend & Mobile	ReactNext.jsReact NativeTailwind CSSViteAndroid
-Backend & Data	Node.jsExpressFastAPISpring BootPostgreSQLMySQLSQLiteSupabasePrisma
-Cloud & DevOps	AWSFirebaseVercelRenderCloudflareDockerGitGitHub
-Design & Tools	After EffectsNotionpnpmnpm
+<div align="center">
+TypeScriptJavaScriptJavaPythonKotlinC++ReactNext.jsReact NativeTailwind CSSViteAndroidNode.jsExpressFastAPISpring BootPostgreSQLMySQLSQLiteSupabasePrismaAWSFirebaseVercelRenderCloudflareDockerGitGitHubAfter EffectsNotionpnpmnpm
+
+</div>
 🚀 Featured Projects
 🏨 Greymoor — Hotel Management Platform
 A full hotel operations system: room bookings, safari packages, guest and staff dashboards, housekeeping, payments and analytics — with M-Pesa STK Push wired in through Supabase Edge Functions.
