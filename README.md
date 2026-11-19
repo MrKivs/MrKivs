@@ -1,25 +1,42 @@
-# 💫 About Me:
-Hey, my name's Lewis.
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/lewis-kivulu-677127359/) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@MrKivs) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kivululewis@gmail.com) 
+<div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1A1B27,50:7AA2F7,100:BB9AF7&height=220&section=header&text=Lewis%20Kivulu&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BSc%20Software%20Development%20%C2%B7%20Nairobi%2C%20Kenya&descAlignY=58&descSize=18" alt="Lewis Kivulu" /> <a href="https://github.com/DenverCoder1/readme-typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=620&lines=Software+developer+%C2%B7+Nairobi%2C+Kenya;React+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+PostgreSQL;Building+useful+things+for+the+web+and+mobile" alt="Typing SVG" /> </a> <br/>
+LinkedInYouTubeGmailGitHub
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![PNPM](https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Prisma](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=MrKivs&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=MrKivs&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=MrKivs&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
+👋 About Me
+I'm Lewis — a software development student at KCA University in Nairobi, Kenya, and a full-stack developer who likes shipping complete products rather than prototypes.
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MrKivs&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+I work across the stack: React and TypeScript on the front end, Java and Node on the back end, PostgreSQL or Supabase for data, and a bit of Android when an idea needs an app. I'm currently building Heron, a zero-custody crowdfunding platform for community fundraising, and always tinkering with something smaller on the side.
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+🎓 Studying: BSc Software Development at KCA University
+🏗️ Currently building: Heron — crowdfunding, without the custody
+🎬 Off the clock: editing video and making content on YouTube
+💬 Ask me about: React, TypeScript, Java, Python or PostgreSQL
+📫 Reach me: kivululewis@gmail.com
+🛠️ Tech Stack
+Category	Stack
+Languages	TypeScriptJavaScriptJavaPythonKotlinC++
+Frontend & Mobile	ReactNext.jsReact NativeTailwind CSSViteAndroid
+Backend & Data	Node.jsExpressFastAPISpring BootPostgreSQLMySQLSQLiteSupabasePrisma
+Cloud & DevOps	AWSFirebaseVercelRenderCloudflareDockerGitGitHub
+Design & Tools	After EffectsNotionpnpmnpm
+🚀 Featured Projects
+🏨 Greymoor — Hotel Management Platform
+A full hotel operations system: room bookings, safari packages, guest and staff dashboards, housekeeping, payments and analytics — with M-Pesa STK Push wired in through Supabase Edge Functions.
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrKivs&limit=5&theme=dark&combine_all_yearly_contributions=true)
+React TypeScript Vite Tailwind CSS Supabase M-Pesa  ·  View repository →
 
----
-[![](https://komarev.com/ghpvc/?username=MrKivs&icon=0&color=0)](https://visitcount.itsvg.in)
+📱 Kazini — Employee Directory App
+An Android app where admins and staff sign in, browse employee records, and manage profiles. Built with a local SQLite database and a clean, searchable Material interface.
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Kotlin Java Android SQLite  ·  View repository →
+
+🛍️ Flashy — Fashion Storefront
+A responsive fashion site with a product catalogue, cart, checkout flow and an admin dashboard for products, offers and sales.
+
+HTML CSS JavaScript  ·  View repository →
+
+<p align="center"> <a href="https://github.com/MrKivs?tab=repositories"><b>Explore all repositories →</b></a> </p>
+📊 GitHub at a Glance
+<p align="center"> <img height="165" src="https://github-readme-stats.shion.dev/api?username=MrKivs&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github" alt="GitHub stats" /> <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=MrKivs&theme=tokyonight&hide_border=true&layout=compact&langs_count=8&include_all_commits=true&count_private=true&size_weight=0.5&count_weight=0.5" alt="Top languages" /> </p> <p align="center"> <img src="https://streak-stats.demolab.com/?user=MrKivs&theme=tokyonight&hide_border=true" alt="GitHub streak" /> </p> <p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrKivs&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" /> </p>
+🤝 Let's Connect
+<p align="center"> Always happy to talk about code, products, or anything in between. <br/> <a href="https://www.linkedin.com/in/lewis-kivulu-677127359/"><b>LinkedIn</b></a> · <a href="mailto:kivululewis@gmail.com"><b>Email</b></a> · <a href="https://www.youtube.com/@MrKivs"><b>YouTube</b></a> </p> <p align="center"> <img src="https://komarev.com/ghpvc/?username=MrKivs&label=Profile%20views&color=7aa2f7&style=for-the-badge" alt="Profile views" /> </p>
