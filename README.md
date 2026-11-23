@@ -27,8 +27,7 @@ for help. My work usually sits where frontend, backend and payments meet — Rea
 up front, Java, Spring Boot, Node and PostgreSQL behind it, and M-Pesa when a product needs to
 move real money.
 
-I'm also studying software development at **KCA University** and building **Heron**, a
-zero-custody crowdfunding platform for community fundraising. Outside of work I'm usually deep
+I'm also studying software development at **KCA University**. Outside of work I'm usually deep
 in a side project, a design rabbit hole, or explaining why the demo is *almost* ready.
 
 - 🤝 **Co-founder & CTO** at [Byte Nuru](https://www.bytenuru.com)
